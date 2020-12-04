@@ -1,6 +1,6 @@
-# I'm a Full Stack Developer.Having 3+ years professional experience in software development.I love to take challenges and try till the end to achieved it.Mostly,I worked on web based technologies and always try to lead the projects successfully.
+## I'm a Full Stack Developer.Having 3+ years professional experience in software development.I love to take challenges and try till the end to achieved it.Mostly,I worked on web based technologies and always try to lead the projects successfully.
 
-## Skill Areas :
+### Skill Areas :
 1. Language Efficiency (C++,Java,PHP)
 1. Database (Sql [Mysql,Sql Server],NoSql [MongoDB])
 1. Front End Development (Html5,CSS3,Jquery,JS,Ajax,Bootstrap,Vue JS)
