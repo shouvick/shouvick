@@ -26,4 +26,4 @@
 1. Social Media Integration
 1. Distributed Systems Integration
 
-#### LinkedIn Profile : [I'm an inline-style link](https://www.linkedin.com/in/shohag-monzur-shouvick-574680176/)
+#### LinkedIn Profile : (https://www.linkedin.com/in/shohag-monzur-shouvick-574680176/)
