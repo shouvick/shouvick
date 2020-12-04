@@ -2,7 +2,7 @@
 
 ### Skill Areas :
 1. Language Efficiency (C++,Java,PHP)
-1. Database (Sql [Mysql,Sql Server],NoSql [MongoDB])
+1. Database (Sql [Mysql,Sql Server],NoSql [MongoDB],RealTime Database [Firebase])
 1. Front End Development (Html5,CSS3,Jquery,JS,Ajax,Bootstrap,Vue JS)
 1. Backend Development (PHP,Java)
 1. Framework (Laravel,Symfony,Spring Boot)
