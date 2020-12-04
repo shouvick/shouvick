@@ -14,7 +14,7 @@
 1. Application Load Testing (Locust)
 
 
-## Specialist Areas :
+### Specialist Areas :
 1. Software Development (Lamp/Lemp Stack )
 1. Software Architecture Design
 1. Database Design
@@ -25,3 +25,5 @@
 1. Payment Gateway
 1. Social Media Integration
 1. Distributed Systems Integration
+
+#### LinkedIn Profile : [I'm an inline-style link](https://www.linkedin.com/in/shohag-monzur-shouvick-574680176/)
