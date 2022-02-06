@@ -28,4 +28,4 @@
 
 #### LinkedIn Profile : (https://www.linkedin.com/in/shohag-monzur-shouvick-574680176/)
 
-https://github-readme-stats.vercel.app/api?username=shouvick
+![Shouvick's GitHub stats](https://github-readme-stats.vercel.app/api?username=shouvick&theme=dark&show_icons=true)
