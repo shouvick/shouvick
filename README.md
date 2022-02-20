@@ -1,11 +1,11 @@
 ## I'm a Full Stack Developer.Having 4+ years professional experience in software development.I love to take challenges and try till the end to achieved it.Mostly,I worked on web based technologies and always try to lead the projects successfully.
 
 ### Skill Areas :
-1. Language Efficiency (C++,Java,PHP)
+1. Language Efficiency (C++,Java,JS,PHP)
 1. Database (Sql [Mysql,Sql Server],NoSql [MongoDB],RealTime Database [Firebase])
 1. Front End Development (Html5,CSS3,Jquery,JS,Ajax,Bootstrap)
-1. Backend Development (PHP,Java)
-1. Framework (Laravel,Symfony,Spring Boot)
+1. Backend Development (Java,Php,Laravel)
+1. Framework (Spring Boot,Laravel,Express JS)
 1. API Framework (Lumen)
 1. CMS (Wordpress,OctoberCms)
 1. Server Handling Managed/Un-Managed (AWS,Digital Ocean,Linode)
