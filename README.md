@@ -4,7 +4,7 @@
 1. Language Efficiency (C++,Java,JS,PHP)
 1. Database (Sql [Mysql,Sql Server],NoSql [MongoDB],RealTime Database [Firebase])
 1. Front End Development (Html5,CSS3,Jquery,JS,Ajax,Bootstrap)
-1. Backend Development (Java,Php,Laravel)
+1. Backend Development (Java,Php,JS)
 1. Framework (Spring Boot,Laravel,Express JS)
 1. API Framework (Lumen)
 1. CMS (Wordpress,OctoberCms)
